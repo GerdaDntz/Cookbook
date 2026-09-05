@@ -5,7 +5,7 @@
 ## 📖 Содержание
 
 ### Супы
-- [Том ям без выгребонов](soups/tomyamnevyezhivaisya.md)
+- [Том ям без выгребонов](soups/tomyam.md)
 - [Том Солябес](soups/tomsolyabes.md)
 - [Борщ](soups/borsh.md)
 
