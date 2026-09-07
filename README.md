@@ -8,6 +8,7 @@
 - [Том ям без выгребонов](soups/tomyam.md)
 - [Том Солябес](soups/tomsolyabes.md)
 - [Борщ](soups/borsh.md)
+- [Суп-пюре из перца](soups/peppersoup.md)
 
 
 ---
