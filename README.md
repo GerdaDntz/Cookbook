@@ -10,6 +10,8 @@
 - [Борщ](soups/borsh.md)
 - [Суп-пюре из перца](soups/peppersoup.md)
 
+### Пицца
+- [Пеперони базовая](pizza/peperoni.md)
 
 ---
 
